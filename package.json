@@ -1,0 +1,12 @@
+{
+  "name": "new-relic-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jacob Bare <jacob@limit0.io>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.0-beta4",
+    "newrelic": "^4.1.1"
+  }
+}
